@@ -1,0 +1,9 @@
+%% Rui Yin
+
+
+
+% We set threshold value in 0.5
+% 0.5 works the best
+% I add some additional properties 
+% Area of bounding box of object
+% Extent which area of object fills its boundbox 
